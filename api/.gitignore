@@ -1,0 +1,5 @@
+.env
+**/node_modules
+/api/src/config/path/serviceAccountKey.json
+**/uploads
+**.json
